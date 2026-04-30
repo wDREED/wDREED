@@ -1,6 +1,6 @@
 # Привет! Я WDREED 👋
 
-🚀 **Python Back-End Developer (в процессе обучения)**  
+🚀 **Python Back-End Developer )**  
 🎯 **Цель:** трудоустройство к октябрю 2026 года  
 📍 **Локация:** удалённо
 
@@ -11,12 +11,6 @@
 - 🐍 Углублённое изучение Django & FastAPI
 - ️ PostgreSQL, Docker, Git
 - 🏗️ Пет-проекты для портфолио
-
-### ✅已完成:
-- [x] Code Basics (65/65 тем)
-- [x] Основы Python: циклы, функции, ООП
-- [x] Обработка исключений, работа с файлами
-- [x] Первый проект: CLI Calculator
 
 ### 📊 Моя активность:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wDREED&show_icons=true&theme=radical&hide_border=true)
@@ -35,7 +29,7 @@
 
 ---
 
-> «Каждый коммит — это шаг к цели. Главное не скорость, а направление.»
+> «Разговоры — просто трата времени. Встань и пойди за этим, встань и возьми»
 
 <!--
 **wDREED/wDREED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
