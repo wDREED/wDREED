@@ -1,22 +1,28 @@
-# Привет! Я wDREED 👋
+# Hi, I'm Asher Pshtanov! 👋
 
-### 🐍 Python Developer | Linux Enthusiast | AI Tools User
+### 🐍 Python Developer | Linux Enthusiast | AI-Assisted Workflows
 
-- 🔭 Сейчас я работаю над: **Gastronom App** (автоматизация склада)
-- 🌱 Изучаю: Продвинутый Python и работу с API
-- 🛠 Инструменты: Obsidian, PyCharm, Linux Terminal
-- 🎯 Цель на 2026: Стать Junior Python Developer
+I am a self-taught developer from Kazakhstan, currently focused on mastering Python and building automation tools. I believe in the power of AI to accelerate learning and solve complex problems efficiently.
+
+- 🔭 **Current Project:** Developing **Gastronom** — an inventory automation system for retail and stock management.
+- 🚀 **Career Goal:** Transitioning to a Junior Python Developer role by October 2026.
+- 🌱 **Learning:** Deep diving into Python OOP, REST APIs, and SQL databases.
+- 🐧 **OS:** Daily driving **Linux Mint** & **Pop!_OS**. I love system optimization and terminal-based workflows.
 
 ---
 
-### 🛠 Стек технологий и инструменты
+### 🛠 Tech Stack & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,pycharm,bash,mysql,postman,obsidian" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,git,bash,mysql,sqlite,pycharm,vscode,obsidian,notion" />
+  </a>
 </p>
 
 ---
 
-### 📊 Моя статистика GitHub
+### 📊 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dracula&langs_count=6" />
@@ -24,7 +30,17 @@
 
 ---
 
-### 📫 Как со мной связаться
+### 🕹️ Beyond Coding
+
+*   🧠 I use **Obsidian** and **Notion** as my second brain for learning notes.
+*   🎮 Huge fan of open-world RPGs like **Elden Ring** and **Skyrim**.
+*   🏗️ Excitedly waiting for **Hytale** to explore its modding capabilities.
+
+---
+
+### 📫 Connect with me
+
 <p align="left">
-<a href="ссылка_на_телеграм" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
