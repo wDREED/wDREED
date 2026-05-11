@@ -1,25 +1,30 @@
-# 👋 Привет, я [Имя]
-**Python Backend Developer** | FastAPI • Django • PostgreSQL • Docker • AWS
+# Привет! Я [Твое Имя] 👋
 
-📧 your@email.com | 💼 [LinkedIn](...) | 🌐 [Portfolio/Blog](...) | 💬 [Telegram](...)
+### 🐍 Python Developer | Linux Enthusiast | AI Tools User
 
----
-### 🛠️ Стек
-| Языки & Фреймворки | Базы данных & Инфра | Инструменты |
-|-------------------|-------------------|-------------|
-| Python 3.11+      | PostgreSQL        | Docker      |
-| FastAPI / Django  | Redis             | GitHub Actions |
-| SQLAlchemy / Alembic | MongoDB (опц.) | pytest, ruff, mypy |
-| Celery / RabbitMQ |                   | pre-commit  |
+- 🔭 Сейчас я работаю над: **Gastronom App** (автоматизация склада)
+- 🌱 Изучаю: Продвинутый Python и работу с API
+- 🛠 Инструменты: Obsidian, PyCharm, Linux Terminal
+- 🎯 Цель на 2026: Стать Junior Python Developer
 
 ---
-### 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_LOGIN&show_icons=true&theme=radical&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=YOUR_LOGIN&theme=radical)
+
+### 🛠 Стек технологий и инструменты
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,pycharm,bash,mysql,postman,obsidian" />
+</p>
 
 ---
-### 📌 Что я ценю в коде
-- Читаемость > cleverness
-- Тесты покрывают бизнес-логику, а не моки
-- Миграции версионируются, `.env` не в репе
-- API документировано (OpenAPI/Swagger)
+
+### 📊 Моя статистика GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dracula&langs_count=6" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+<p align="left">
+<a href="ссылка_на_телеграм" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
+</p>
