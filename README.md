@@ -17,7 +17,7 @@ I am a self-taught developer focused on Python automation and system optimizatio
 
 ### 🛠 Tech Stack & Tools
 
-<p align="centr">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,mint,ubuntu,bash,figma,pycharm,vscode,mysql,sqlite,obsidian,notion,git,github" />
   </a>
