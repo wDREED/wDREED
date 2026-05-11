@@ -1,6 +1,9 @@
-# Hi, I'm Asher Pshtanov! 👋
+<img width="480" height="469" alt="octo" src="https://github.com/user-attachments/assets/1c5e32df-8e41-4aff-9248-85e94169d731" />
 
-### 🐍 Python Developer | Linux Power User | UI/UX Enthusiast
+
+# Hi, I'm wDREED! 👋
+
+### 🐍 Python Backend Developer | Linux Power User | UI/UX Enthusiast
 
 I am a self-taught developer focused on Python automation and system optimization. I enjoy building clean, functional tools and exploring the vast world of Linux distributions.
 
