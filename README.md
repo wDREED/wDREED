@@ -1,10 +1,10 @@
 <div align="center">
   <img width="150" height="150" alt="octo" src="https://github.com/user-attachments/assets/1c5e32df-8e41-4aff-9248-85e94169d731" />
+  
+  <h1>Hi, I'm wDREED! 👋</h1>
+  
+  <h3>🐍 Python Backend Developer | Linux Power User | UI/UX Enthusiast</h3>
 </div>
-
-# Hi, I'm wDREED! 👋
-
-### 🐍 Python Backend Developer | Linux Power User | UI/UX Enthusiast
 
 I am a self-taught developer focused on Python automation and system optimization. I enjoy building clean, functional tools and exploring the vast world of Linux distributions.
 
@@ -15,7 +15,7 @@ I am a self-taught developer focused on Python automation and system optimizatio
 
 ---
 
-### 🛠 Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,8 +28,8 @@ I am a self-taught developer focused on Python automation and system optimizatio
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dracula&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wDREED&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDREED&layout=compact&theme=dracula&langs_count=6" />
 </p>
 
 ---
