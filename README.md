@@ -1,36 +1,25 @@
-# Привет! Я wDREED 👋
+# 👋 Привет, я [Имя]
+**Python Backend Developer** | FastAPI • Django • PostgreSQL • Docker • AWS
 
-🚀 **Python Back-End Developer )**  
-🎯 **Цель:** трудоустройство к октябрю 2026 года  
-📍 **Локация:** удалённо
-
----
-
-### 🔭 Сейчас работаю над:
-- 📚 Курс «Добрый, добрый Python» (Балакирев)
-- 🐍 Углублённое изучение Django & FastAPI
-- ️ PostgreSQL, Docker, Git
-- 🏗️ Пет-проекты для портфолио
-
-### 📊 Моя активность:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wDREED&show_icons=true&theme=radical&hide_border=true)
-
-### 🔥 streak:
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=wDREED&theme=radical&hide_border=true)
-
-### 🛠️ Технологии в изучении:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 📈 Топ языки:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wDREED&layout=compact&theme=radical&hide_border=true)
+📧 your@email.com | 💼 [LinkedIn](...) | 🌐 [Portfolio/Blog](...) | 💬 [Telegram](...)
 
 ---
+### 🛠️ Стек
+| Языки & Фреймворки | Базы данных & Инфра | Инструменты |
+|-------------------|-------------------|-------------|
+| Python 3.11+      | PostgreSQL        | Docker      |
+| FastAPI / Django  | Redis             | GitHub Actions |
+| SQLAlchemy / Alembic | MongoDB (опц.) | pytest, ruff, mypy |
+| Celery / RabbitMQ |                   | pre-commit  |
 
-> «Разговоры — просто трата времени. Встань и пойди за этим, встань и возьми»
+---
+### 📊 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_LOGIN&show_icons=true&theme=radical&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=YOUR_LOGIN&theme=radical)
 
-<!--
-**wDREED/wDREED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+### 📌 Что я ценю в коде
+- Читаемость > cleverness
+- Тесты покрывают бизнес-логику, а не моки
+- Миграции версионируются, `.env` не в репе
+- API документировано (OpenAPI/Swagger)
