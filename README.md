@@ -1,4 +1,4 @@
-<img width="480" height="469" alt="octo" src="https://github.com/user-attachments/assets/1c5e32df-8e41-4aff-9248-85e94169d731" />
+<img width="150" height="150" alt="octo" src="https://github.com/user-attachments/assets/1c5e32df-8e41-4aff-9248-85e94169d731" />
 
 
 # Hi, I'm wDREED! 👋
