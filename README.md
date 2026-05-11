@@ -1,13 +1,13 @@
 # Hi, I'm Asher Pshtanov! 👋
 
-### 🐍 Python Developer | Linux Enthusiast | AI-Assisted Workflows
+### 🐍 Python Developer | Linux Power User | UI/UX Enthusiast
 
-I am a self-taught developer from Kazakhstan, currently focused on mastering Python and building automation tools. I believe in the power of AI to accelerate learning and solve complex problems efficiently.
+I am a self-taught developer focused on Python automation and system optimization. I enjoy building clean, functional tools and exploring the vast world of Linux distributions.
 
-- 🔭 **Current Project:** Developing **Gastronom** — an inventory automation system for retail and stock management.
-- 🚀 **Career Goal:** Transitioning to a Junior Python Developer role by October 2026.
-- 🌱 **Learning:** Deep diving into Python OOP, REST APIs, and SQL databases.
-- 🐧 **OS:** Daily driving **Linux Mint** & **Pop!_OS**. I love system optimization and terminal-based workflows.
+- 🔭 **Current Project:** Building **Gastronom** — a specialized inventory system for retail (beer & meat stock).
+- 🎨 **Design:** I use **Figma** to wireframe my projects and **Obsidian** to manage my technical knowledge.
+- 🚀 **Goal:** Landing my first professional Python Developer role by October 2026.
+- 🐧 **Linux Journey:** Daily driving **Linux Mint**. Also experienced with **Pop!_OS** and **Ubuntu**.
 
 ---
 
@@ -15,13 +15,13 @@ I am a self-taught developer from Kazakhstan, currently focused on mastering Pyt
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,git,bash,mysql,sqlite,pycharm,vscode,obsidian,notion" />
+    <img src="https://skillicons.dev/icons?i=python,linux,mint,ubuntu,bash,figma,pycharm,vscode,mysql,sqlite,obsidian,notion,git,github" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -30,15 +30,7 @@ I am a self-taught developer from Kazakhstan, currently focused on mastering Pyt
 
 ---
 
-### 🕹️ Beyond Coding
-
-*   🧠 I use **Obsidian** and **Notion** as my second brain for learning notes.
-*   🎮 Huge fan of open-world RPGs like **Elden Ring** and **Skyrim**.
-*   🏗️ Excitedly waiting for **Hytale** to explore its modding capabilities.
-
----
-
-### 📫 Connect with me
+### 📫 Let's Connect
 
 <p align="left">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
