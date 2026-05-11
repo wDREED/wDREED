@@ -1,4 +1,4 @@
-# Привет! Я [Твое Имя] 👋
+# Привет! Я wDREED 👋
 
 ### 🐍 Python Developer | Linux Enthusiast | AI Tools User
 
