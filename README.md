@@ -25,6 +25,14 @@ I am a self-taught developer focused on Python automation and system optimizatio
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDREED&layout=compact&theme=dracula&langs_count=6" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
